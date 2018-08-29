@@ -1,0 +1,2 @@
+# terick
+automacao
